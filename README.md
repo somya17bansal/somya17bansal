@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somya Bansal</h1>
 <h3 align="center">I am a coding enthusiast.</h3>
-<img allign=ight" width=400 alt="coding" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fgithub%2Fhow-to-create-a-github-profile-readme-jha&psig=AOvVaw3SM-EpXYE65y2NMiOKQP29&ust=1686851658355000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKC1gqaqw_8CFQAAAAAdAAAAABBZ>
+<img align="right" width=400 alt="coding" src=https://res.cloudinary.com/practicaldev/image/fetch/s--2_07Fv_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/MishManners%2520Room%2520animated.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somya17bansal&label=Profile%20views&color=0e75b6&style=flat" alt="somya17bansal" /> </p>
 
